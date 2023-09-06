@@ -13,19 +13,19 @@ function Produtos(){
         <h1>Modelos refências da categoria</h1>
         <div>
             <h2>Modelo 1</h2>
-           <img src={Img1} />
+           <img src={Img1} alt="Imagem-Lambo"/>
         </div>
         <div>
             <h2>Modelo 2</h2>
-           <img src={Img2} />
+           <img src={Img2} alt="Imagem-GTR" />
         </div>
         <div>
             <h2>Modelo 3</h2>
-           <img src={Img3} />
+           <img src={Img3} alt="Imagem-Ferrari"/>
         </div>
         <div>
             <h2>Modelo 4</h2>
-           <img src={Img4} />
+           <img src={Img4} alt="Imagem-Audi"/>
         </div>
         
         </>
